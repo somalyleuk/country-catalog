@@ -93,7 +93,7 @@
           />
           <div class="p-5">
             <div @click="showCountryDetails(country)" class="country-name">
-              <p>{{ country.name.official }}</p>
+              <p class="text-xs">{{ country.name.official }}</p>
             </div>
           </div>
         </div>
