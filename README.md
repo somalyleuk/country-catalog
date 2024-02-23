@@ -1,5 +1,5 @@
 #production
-demo : https://country-catalog-s8xi.vercel.app/
+demo : https://country-catalog-s8xi.vercel.app
 
 # countries-catalog
 
